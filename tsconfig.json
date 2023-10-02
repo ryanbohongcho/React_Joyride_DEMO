@@ -1,0 +1,10 @@
+{
+  "extends": "@gilbarbara/tsconfig",
+  "compilerOptions": { },
+  "files": [
+    "custom.d.ts"
+  ],
+  "include": [
+    "src/**/*"
+  ]
+}
